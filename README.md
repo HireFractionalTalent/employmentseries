@@ -11,6 +11,7 @@ The Employment Series are foundation and informational classes for people who ar
 > * $ git branch -a
 > * $ git commit -m "your message"
 > * $ git remote add [name_of_your_remote] [name_of_your_new_branch]
+* Branching Strategies (Master / Staging / Development | CI & CD)
 
 - Azure Boards (GitHub Integration)
 > * Syntax: AB#{ID}
