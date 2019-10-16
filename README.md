@@ -20,6 +20,7 @@ The Employment Series are foundation and informational classes for people who ar
 ## SESSION 2:
 - Session 1 Summary (GIT / Azure DevOps) 
 - Project Management | Azure Boards (Stand-up, Task Management)
+> * Join Planning Poker (https://www.planitpoker.com/board/#/room/d8aa85a118044ec6855280ed3fcc291c)
 > * Sprint Start
 > * Stand-up 
 - Branching Strategies (Master / Staging / Development | CI & CD)
@@ -32,6 +33,8 @@ The Employment Series are foundation and informational classes for people who ar
 > * Create a Console Application
 >   * Add Classes for each person (Method to return name);
 
+- Architecture & Design
+    - Choosing what we want to build.
 
 
 
