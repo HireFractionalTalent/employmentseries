@@ -21,7 +21,6 @@ The Employment Series are foundation and informational classes for people who ar
 - Architecture & Design
     - Choosing what we want to build.
 
-
 ## SESSION 1:
 - GIT Basic Commands Overview:
     - https://www.hostinger.com/tutorials/basic-git-commands
