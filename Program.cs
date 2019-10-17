@@ -1,3 +1,4 @@
+
 ﻿using System;
 
 namespace employmentseries
@@ -10,3 +11,4 @@ namespace employmentseries
         }
     }
 }
+
