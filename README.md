@@ -2,6 +2,20 @@
 
 The Employment Series are foundation and informational classes for people who are unemployed/under-employed/looking for a new career. They are hidden gems of information that employers want and employees need to know. Each session is Hands-on using C# .Net Core (.net core 2.2 - 3.0). 
 
+## Session 3: 
+- Session 2 recap
+- Summary of DotNet CLI
+> * Review homework
+- Architecture Overview
+    - layered application design
+    - single responsibility principle (SRP)
+    - Design Workshop (whiteboarding practice)
+
+## Session 2: Homework
+- Create a branch off of master. Use the branch and add a Class that has a method that returns your name. Test the class by creating an instance of the class and call the method. The console app should output your name along with Hello World.
+>   * Add Classes for each person (Method to return name);
+>   * Console App to output your name using your class and method.
+
 ## SESSION 2:
 - Session 1 Summary (GIT / Azure DevOps) 
 - Project Management | Azure Boards (Stand-up, Task Management)
@@ -14,12 +28,9 @@ The Employment Series are foundation and informational classes for people who ar
 > * $ git checkout -b [name_of_your_new_branch]
 > * $ git branch -a
 > * $ git remote add [name_of_your_remote] [name_of_your_new_branch]
-- DotNet Command Line Overview
+- DotNet CLI Overview
 > * Create a Console Application
->   * Add Classes for each person (Method to return name);
 
-- Architecture & Design
-    - Choosing what we want to build.
 
 ## SESSION 1:
 - GIT Basic Commands Overview:
