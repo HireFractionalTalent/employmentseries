@@ -6,7 +6,8 @@ namespace employmentseries
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Person myPerson = new Person();
+            myPerson.PrintMyName("Tzvetomir");
         }
     }
 }
