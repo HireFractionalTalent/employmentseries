@@ -2,6 +2,24 @@
 
 The Employment Series are foundation and informational classes for people who are unemployed/under-employed/looking for a new career. They are hidden gems of information that employers want and employees need to know. Each session is Hands-on using C# .Net Core (.net core 2.2 - 3.0). 
 
+## Session 5: 
+- Session 4 recap
+- Review Architecture Design of System 
+- Code:
+    - Front End (REACT)
+    - API (Middle Tier using .net core)
+    - Backend (Model Database using MS SQL Server)
+        - DB_A4B19D_employmentseries
+        - MSSQL: sql7005.site4now.net
+        - Username: DB_A4B19D_employmentseries_admin
+
+
+## Session 4: 
+- Session 3 recap
+- Design Workshop (project selection)
+    - review of layered application design
+    - Design Workshop (whiteboarding practice)
+
 ## Session 3: 
 - Session 2 recap
 - Summary of DotNet CLI
