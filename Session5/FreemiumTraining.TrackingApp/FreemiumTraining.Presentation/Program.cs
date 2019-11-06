@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore;
@@ -14,7 +15,6 @@ namespace FreemiumTraining.Presentation
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
-            Console.WriteLine("DId I build and stuff?");
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
