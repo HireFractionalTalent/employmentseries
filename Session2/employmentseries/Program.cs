@@ -7,6 +7,8 @@ namespace employmentseries
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            JJR thing = new JJR();
+            Console.WriteLine(thing.myName());
         }
     }
 }
