@@ -2,9 +2,12 @@
 
 namespace FreemiumTraining.DTO
 {
-	public int ItemID
-    {
-        get;
-        set;
-    }
+	public class TrackableItem
+	{
+		public int ItemID
+		{
+			get;
+			set;
+		}
+	}
 }
