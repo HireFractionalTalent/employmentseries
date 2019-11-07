@@ -7,20 +7,22 @@ namespace FreemiumTraining.Presentation.Controllers
    
     public class ItemListController
     {
-        private ITrackableItemManager _manager;
+        private ITrackableItemManager _item;
 
-        public ItemListController(ITrackableItemManager manager){
-            this._manager = manager;
+        public ItemListController(ITrackableItemManager item){
+            this._item = item;
 
-            
 
         }
 
     [HttpGet]
-        public void Get()
+        public void GetItems()
         {
            
             //return null;
         }
+
+
+
     }
 }

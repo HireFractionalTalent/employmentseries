@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FreemiumTraining.Data\FreemiumTraining.Data.csproj" />
+    <ProjectReference Include="..\FreemiumTraining.Data\FreemiumTraining.DTO.csproj" />
   </ItemGroup>
 
 </Project>
